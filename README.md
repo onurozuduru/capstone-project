@@ -24,8 +24,8 @@ project report or this Github repo, please reach me.
 ### Contact Info
 
 * Twitter: [@onurozuduru](http://www.twitter.com/onurozuduru)
-* Linkedin: [](https://linkedin.com/in/onurozuduru/)
+* Linkedin: [https://linkedin.com/in/onurozuduru/](https://linkedin.com/in/onurozuduru/)
 * Tumblr: [onurozuduru](http://onurozuduru.tumblr.com/)
-* Blog: [](http://ozuduru.com/)
+* Blog: [http://ozuduru.com/](http://ozuduru.com/)
 * Github: [onurozuduru](https://github.com/onurozuduru)
 * E-mail: onur { d-o-t } ozuduru { a-t } gmail { d-o-t } com
